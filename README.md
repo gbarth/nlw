@@ -5,7 +5,7 @@
 Projeto construído do evento NextLevel Week da Rocketseat.
 
 
-[Clique aqui para acessar!](https://https://gbarth.github.io/nlw/)
+[Clique aqui para acessar!](https://gbarth.github.io/nlw/)
 
 ## Tecnologias
 
